@@ -1,5 +1,9 @@
 # Blockchain-in-Food-Supplychain-
-Note: This document was prepared and submitted by Students of Goa Institute of Management - Big Data Analytics, 
+Please view this Readme file in edit mode to get clear view of the contents.
+
+
+Note: This document was prepared and submitted by Students of Goa Institute of Management - Big Data Analytics, Students -> Aayushi Deep, Mohamed Irfan M, Pallavi Sharma, Shradha Patnaik, Sumit Saurav
+
 
 
 1. Problem Statment
@@ -17,17 +21,17 @@ Note: This document was prepared and submitted by Students of Goa Institute of M
             
             Please refer the Highlevel and the low level document attached.
     
- 3. Developed Food Tracebility System
-            Included Stakeholders: Farmers, Food Processor, Distributors, Retailors-> Consumers
-            Tools Used: Anaconda Jupyter, VS Studio, Postman
-            Python Libraries: Streamlit, Flask, Pymango, Json, Hashlib 
-            API Frontend: Designed in Streamlit
+ 3. Developed Food Tracebility System:=
+            1) Included Stakeholders: Farmers, Food Processor, Distributors, Retailors-> Consumers
+            2) Tools Used: Anaconda Jupyter, VS Studio, Postman
+            3) Python Libraries: Streamlit, Flask, Pymango, Json, Hashlib 
+            4) API Frontend: Designed in Streamlit
             
  4. Step in Implementation
-            a. Create nodes using python file Blockchain node 5015,5016,5017
-            b. connect the nodes using postman
-            c. open the file FrontEnd.py through stremlit and choose appropriate stakeholder like Farmer, Processor, Distributor, Retailer
-            d. enter the details being asked like Batch ID, Shipped Date, Shipped To etc
-            e. Click Add Details to add transaction to the blockchain network and mine the block to store information in nodes.
-            f. replace the chain through postman to have infomation stored in all the nodes of the blockchain.
+            1) Create nodes using python file Blockchain node 5015,5016,5017
+            2) connect the nodes using postman
+            3) open the file FrontEnd.py through stremlit and choose appropriate stakeholder like Farmer, Processor, Distributor, Retailer
+            4) enter the details being asked like Batch ID, Shipped Date, Shipped To etc
+            5) Click Add Details to add transaction to the blockchain network and mine the block to store information in nodes.
+            6) replace the chain through postman to have infomation stored in all the nodes of the blockchain.
         
